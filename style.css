@@ -73,8 +73,8 @@ body {
     font-size: 20px;
 }
 .contact {
-    position: fixed;
-    bottom: 0%;
+    position: absolute;
+    bottom: 0px;
     background-color: grey;
     overflow: hidden;
     width: 100%;

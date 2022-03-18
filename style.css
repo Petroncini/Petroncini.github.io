@@ -74,7 +74,7 @@ body {
 }
 .contact {
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
     background-color: grey;
     overflow: hidden;
     width: 100%;

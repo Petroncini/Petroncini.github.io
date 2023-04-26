@@ -27,7 +27,7 @@ let Particle = function (position) {
       this.diameter = random(5, 7) + energy * 50
       this.position.y += 1 
       this.position.y += (this.speed.y * energy * 10 ) 
-      this.color = perc2color(energy * 100)
+      this.color = perc2color(energy * 500)
       if (this.position.y > height) {
         this.position.y = 0
       }
